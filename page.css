@@ -1,0 +1,21 @@
+body{
+   background-color: rgb(84, 126, 126);
+
+}
+
+.card{
+   
+   margin:10px;
+   
+   text-align: center;
+   background-color: black;
+   color: white;
+   text-overflow: hidden;
+}
+.card-body{
+   background: linear-gradient(to right, rgb(201, 195, 195),rgb(99, 96, 96));
+}
+img{
+   padding: 10px;
+   background: linear-gradient(to right, rgb(201, 195, 195),rgb(99, 96, 96));
+}
